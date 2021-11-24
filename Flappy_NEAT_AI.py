@@ -1,10 +1,3 @@
-"""
-Flappy bird using pygame.
-With pixel perfect collision using masks
-
-Date Modified:  Aug 21, 2019
-Author: Lucii (Sai Rudh Reddy)
-"""
 import pygame, time, os, random,  pickle, neat
 pygame.font.init() # for font
 
